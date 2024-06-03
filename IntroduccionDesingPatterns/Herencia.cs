@@ -5,9 +5,9 @@ using System.Runtime.CompilerServices;
 
 namespace IntroduccionDesignPattern
 {
-    class Program
+    class Herencia
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             var persona = new PersonaDeportiva("manu", 27, "español", "futbol", "madrid");
             var persona2 = new PersonaDeportiva("pepe", 27, "español", "baloncesto", "barsa");
@@ -15,7 +15,7 @@ namespace IntroduccionDesignPattern
             Console.WriteLine(persona2.Saludar());
             Console.WriteLine(persona.Run());
             persona.Run2();
-        }
+        }*/
     }
 
 
